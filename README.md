@@ -8,6 +8,11 @@ Firmware untuk mengontrol modul relay menggunakan ESP-01 (ESP8266) melalui halam
 
 ---
 
+## 🛒 Link Pembelian
+
+Beli ESP01 dan USB to TTL programmer di sini:
+👉 [Shopee - Link Pembelian Terpercaya](https://s.shopee.co.id/1gIPv5W8xi)
+
 ## ✨ Fitur
 
 - 📶 Mode Access Point — tidak butuh router/internet, HP langsung konek ke ESP-01
@@ -178,6 +183,16 @@ Lalu tambahkan tombol titik warna baru di bagian `theme-row` dan fungsi `setThem
 | Script `convert_logo.py` "tidak terjadi apa-apa" | Kemungkinan nama/ekstensi file di script tidak cocok dengan file logo Anda (misal script cari `logo.png` tapi file Anda `logo.jpg`), atau dijalankan dengan klik dua kali sehingga pesan error langsung hilang. Jalankan lewat Command Prompt agar error terlihat |
 
 ---
+
+## 🌐 Ikuti Kami
+
+**a13d1 Connected**
+
+| Platform | Akun |
+|----------|------|
+| YouTube | [a13d1 Connected](https://www.youtube.com/@a13d1-connected) |
+| Instagram | [a13d1-connected](https://www.instagram.com/a13d1connected?utm_source=qr&stkn=MWlzNTg0dmc1eWJqcg==) |
+| TikTok | [a13d1connected](https://www.tiktok.com/@a13d1connected) |
 
 ## 📄 Lisensi
 
